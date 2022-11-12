@@ -1,2 +1,2 @@
 # modern-youtube-player-for-website
-
+<ul><li>no share button </li><li> no youtube logo or watermark </li><li> 100% flexible with any of projects</li><li> no api needed</li></ul>
